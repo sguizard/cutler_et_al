@@ -1,4 +1,4 @@
-# Serum microRNA Profiles Identify French Bulldogs Requiring BOAS Surgery
+# Serum microRNA Profiles Identify French Bulldogs Requiring Airway Surgery
 
 miRNA have been identified through the analysis of short read sequences using the pipeline nf-core/smrnaseq.
 Results have been classified based on their existence in the mirbase database. 
