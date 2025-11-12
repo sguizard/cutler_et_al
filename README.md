@@ -9,4 +9,4 @@ A public repository has been created with the differential expression results: h
 
 Results can be accessed in several ways: HTML format, graphical user interface or via the shinyNGS app present in the shinyngs directory.
 
-The putative novel miRNA identified as `CTAAA72` in the paper, corresponds to the miRNA `ugugccucggaggccucgugagc` in the `diffExpr_mirbase_novel` analysis.
+The putative novel miRNA identified corresponds to the miRNA `ugugccucggaggccucgugagc` in the `diffExpr_mirbase_novel` analysis.
